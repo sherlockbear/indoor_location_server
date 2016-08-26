@@ -3,7 +3,7 @@ from time import ctime
 from extract_fingerprint import extract
 from insert import *
 
-HOST = '192.168.1.106'
+HOST = '192.168.1.100'
 PORT = 1234
 ADDR = (HOST, PORT)
 
