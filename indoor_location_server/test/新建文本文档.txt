@@ -1,0 +1,49 @@
+已经连接: ('192.168.1.118', 25717)
+ready for reception
+
++CWLAP:(4,"EE_FlipClassroom",-82,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:48a:42",6,-14)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"Coolwater TP-LINK",-86,"00:14:78:a8:aa:4a",6,-17)
+
+
+已经连接: ('192.168.1.118', 13895)
+ready for reception
+
++CWLAP:(4,"EE_FlipClassroom",-81,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4bd:dd:ba",6,-12)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"Coolwater TP-LINK",-89,"00:14:78:a8:aa:4a",6,-17)
+
+
+已经连接: ('192.168.1.118', 21703)
+ready for reception
+
++CWLAP:(4,"EE_FlipClassroom",-85,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:414:78:a8:aa:4a",6,-17)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-12)
+
+
+已经连接: ('192.168.1.118', 44567)
+ready for reception
+
++CWLAP:(4,"EE_FlipClassroom",-85,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:414:78:a8:aa:4a",6,-17)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"TP-LINK_DDBA",-90,"bc:46:99:bd:dd:ba",6,-12)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-16)
+
+
+已经连接: ('192.168.1.118', 37485)
+ready for reception
+
++CWLAP:(4,"EE_FlipClassroom",-84,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4a:42",6,-16)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"TP-LINK_350C",-88,"14:75:90:6c:35:0c",6,-21)
++CWLAP:(4,"TP-LINK_DDBA",-87,"bc:46:99:bd:dd:ba",6,-12)
+

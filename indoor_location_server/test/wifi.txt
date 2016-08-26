@@ -1,0 +1,1979 @@
+$$$00,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-21)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-19)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-26)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-21)
+
+$$$00,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-22)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-21)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-17)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-26)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-21)
+
+$$$00,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-21)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-21)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-24)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-19)
+
+$$$00,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-19)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-19)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-24)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-17)
+
+$$$00,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-19)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-66,"00:14:78:a8:aa:4a",6,-19)
+
+$$$00,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-19)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"Coolwater TP-LINK",-64,"00:14:78:a8:aa:4a",6,-17)
+
+$$$00,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-22)
++CWLAP:(4,"Coolwater TP-LINK",-64,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-21)
+
+$$$00,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-63,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-21)
+
+$$$00,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-64,"00:14:78:a8:aa:4a",6,-17)
+
+$$$00,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-64,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"TP-LINK_350C",-95,"14:75:90:6c:35:0c",6,-21)
+
+$$$01,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-17)
+
+$$$01,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-17)
+
+$$$01,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-17)
+
+$$$01,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
+
+$$$01,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-65,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-21)
+
+$$$01,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-16)
+
+$$$01,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-64,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-19)
+
+$$$01,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
+
+$$$01,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"AirX",-62,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
+
+$$$01,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-83,"00:14:78:a8:aa:4a",6,-16)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-16)
+
+$$$03,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-14)
+
+$$$03,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(0,"ChinaNet-xiaoyuan-EDU",-91,"58:66:ba:ec:da:c0",6,-4)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-16)
+
+$$$03,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_350C",-95,"14:75:90:6c:35:0c",6,-19)
+
+$$$03,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-17)
+
+$$$03,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(0,"ChinaNet-xiaoyuan-EDU",-89,"58:66:ba:ec:da:c0",6,-44)
+
+$$$03,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-90,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-12)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-65,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-85,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-62,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-95,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,00$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-63,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-66,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-11)
+
+$$$04,00$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-64,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"TP-LINK_DDBA",-94,"bc:46:99:bd:dd:ba",6,-7)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-75,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-21)
+
+$$$00,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-17)
+
+$$$00,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-21)
+
+$$$00,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-14)
+
+$$$00,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-19)
+
+$$$00,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-95,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-95,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-77,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$00,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$00,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-14)
+
+$$$01,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-14)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-55,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-65,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-16)
+
+$$$01,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-63,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-63,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-63,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-53,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-63,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-77,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-77,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$02,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-77,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-11)
+
+$$$03,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-71,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_350C",-95,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$03,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-97,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_350C",-94,"14:75:90:6c:35:0c",6,-17)
+
+$$$03,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-11)
+
+$$$03,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-89,"14:75:90:6c:35:0c",6,-16)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-12)
+
+$$$03,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-16)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-12)
+
+$$$03,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-11)
+
+$$$03,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-95,"14:75:90:6c:35:0c",6,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-12)
+
+$$$04,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-92,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-94,"14:75:90:6c:35:0c",6,-16)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-94,"14:75:90:6c:35:0c",6,-16)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-86,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-92,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-87,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-95,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-12)
+
+$$$04,01$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(0,"NJU-WLAN",-92,"0c:45:ba:9c:e2:a0",9,-26)
++CWLAP:(4,"TP-LINK_DDBA",-91,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,01$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"TP-LINK_DDBA",-91,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$00,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"TP-LINK_350C",-89,"14:75:90:6c:35:0c",6,-21)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-65,"00:14:78:a8:aa:4a",6,-17)
+
+$$$00,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-19)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-19)
+
+$$$00,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-71,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-12)
+
+$$$00,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-73,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-62,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-87,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-72,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$00,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-72,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-19)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-71,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-62,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-94,"14:75:90:6c:35:0c",6,-17)
+
+$$$01,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-84,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-14)
+
+$$$01,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-63,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_DDBA",-90,"bc:46:99:bd:dd:ba",6,-11)
+
+$$$01,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-61,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$01,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$01,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-71,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-61,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$01,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-71,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$01,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-74,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-62,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-67,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-66,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-67,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-66,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-67,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-66,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-67,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-11)
+
+$$$02,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-67,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
+
+$$$03,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-73,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-87,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-87,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-87,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-78,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-72,"00:14:78:a8:aa:4a",6,-12)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-83,"00:14:78:a8:aa:4a",6,-16)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-11)
+
+$$$04,02$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-93,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_DDBA",-96,"bc:46:99:bd:dd:ba",6,-9)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
+
+$$$04,02$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-91,"bc:46:99:bd:dd:ba",6,-9)
++CWLAP:(4,"TP-LINK_350C",-90,"14:75:90:6c:35:0c",6,-16)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-17)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-14)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-55,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-44,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-95,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-44,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-14)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-54,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-45,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"AirX",-44,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$00,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-44,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-14)
+
+$$$00,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-95,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-71,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-72,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-67,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-21)
+
+$$$01,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-14)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-70,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-68,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-69,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$02,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-16)
+
+$$$02,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
+
+$$$02,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-95,"bc:46:99:bd:dd:ba",6,-11)
+
+$$$02,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-9)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(0,"ChinaNet",-91,"58:66:ba:66:57:c3",1,-17)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(0,"ChinaNet",-92,"58:66:ba:66:57:c3",1,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-76,"00:14:78:a8:aa:4a",6,-12)
+
+$$$03,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-9)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-7)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-12)
+
+$$$03,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"TP-LINK_DDBA",-89,"bc:46:99:bd:dd:ba",6,-7)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"EE_FlipClassroom",-87,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$03,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-16)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$03,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-68,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-9)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$03,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-72,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-16)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-7)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-12)
+
+$$$03,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-12)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-12)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-64,"20:dc:e6:5c:ea:c4",6,-16)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-7)
+
+$$$03,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-12)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-16)
++CWLAP:(4,"TP-LINK_DDBA",-91,"bc:46:99:bd:dd:ba",6,-7)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-9)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-12)
+
+$$$04,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-19)
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-17)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-14)
+
+$$$04,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-14)
+
+$$$04,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-72,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-16)
+
+$$$04,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-92,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-16)
+
+$$$04,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-14)
+
+$$$04,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-14)
+
+$$$04,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-14)
+
+$$$04,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,03$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-65,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-60,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$04,03$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"smilance",-89,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-44,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-41,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-45,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-43,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
+
+$$$00,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-94,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-16)
+
+$$$00,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-48,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-88,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-95,"14:75:90:6c:35:0c",6,-16)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-14)
+
+$$$00,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-55,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-75,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$00,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-56,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-46,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-16)
+
+$$$01,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-57,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-47,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-14)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-79,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-79,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-78,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-90,"14:e6:e4:53:8a:42",6,-12)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-74,"00:14:78:a8:aa:4a",6,-14)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-77,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-91,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$01,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-58,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-85,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-11)
+
+$$$02,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-70,"14:cf:92:71:4c:d6",1,-17)
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"smilance",-87,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-21)
+
+$$$02,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-88,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
+
+$$$02,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"Coolwater TP-LINK",-86,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-14)
+
+$$$02,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
+
+$$$02,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-83,"00:14:78:a8:aa:4a",6,-16)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-83,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-14)
+
+$$$02,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"smilance",-81,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-53,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-60,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-80,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-83,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$02,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-49,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-89,"00:14:78:a8:aa:4a",6,-16)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-21)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"Coolwater TP-LINK",-90,"00:14:78:a8:aa:4a",6,-14)
+
+$$$03,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-17)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-14)
++CWLAP:(4,"AirX",-56,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-59,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-90,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-61,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-89,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"smilance",-83,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-54,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-88,"00:14:78:a8:aa:4a",6,-16)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"AirX",-58,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-88,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-82,"14:e6:e4:53:8a:42",6,-12)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-66,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-87,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-55,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-91,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-67,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"smilance",-85,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"Coolwater TP-LINK",-84,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-57,"20:dc:e6:5c:ea:c4",6,-19)
+
+$$$03,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-82,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-59,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"smilance",-84,"14:e6:e4:53:8a:42",6,-11)
+
+$$$03,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-61,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-85,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"smilance",-86,"14:e6:e4:53:8a:42",6,-11)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$04,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-69,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"smilance",-91,"14:e6:e4:53:8a:42",6,-12)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-16)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-19)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
+
+$$$04,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-89,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-11)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
+
+$$$04,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
+
+$$$04,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-88,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
+
+$$$04,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-9)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-16)
+
+$$$04,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-90,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"Coolwater TP-LINK",-80,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_350C",-92,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_DDBA",-93,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,04$$$
+
++CWLAP:(0,"TP-LINK_714CD6",-62,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"EE_FlipClassroom",-92,"d4:ee:07:34:14:b2",1,-16)
++CWLAP:(4,"AirX",-51,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"TP-LINK_DDBA",-92,"bc:46:99:bd:dd:ba",6,-9)
++CWLAP:(4,"TP-LINK_350C",-91,"14:75:90:6c:35:0c",6,-16)
+
+$$$04,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-93,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-64,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"TP-LINK_350C",-90,"14:75:90:6c:35:0c",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-14)
++CWLAP:(4,"AirX",-50,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"TP-LINK_DDBA",-94,"bc:46:99:bd:dd:ba",6,-9)
+
+$$$04,04$$$
+
++CWLAP:(4,"EE_FlipClassroom",-86,"d4:ee:07:34:14:b2",1,-14)
++CWLAP:(0,"TP-LINK_714CD6",-63,"14:cf:92:71:4c:d6",1,-14)
++CWLAP:(4,"AirX",-52,"20:dc:e6:5c:ea:c4",6,-17)
++CWLAP:(4,"Coolwater TP-LINK",-81,"00:14:78:a8:aa:4a",6,-12)
+
