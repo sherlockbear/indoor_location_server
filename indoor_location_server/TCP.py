@@ -6,7 +6,7 @@ from insert import *
 HOST = '192.168.1.105'
 PORT = 1234
 ADDR = (HOST, PORT)
-class Server(TMI, TCP):                                         #变动位置  
+class Server(TMI, TCP):
     pass
 
 class MyRequestHandler(SRH):
@@ -22,7 +22,7 @@ class MyRequestHandler(SRH):
         storageOfFingerprint([1,5,8],fingerprint)
         data_view()'''
 
-tcpServ = Server(ADDR, MyRequestHandler) 
+tcpServ = Server(ADDR, MyRequestHandler)
 print ('等待新的连接。。。。')
 
 tcpServ.serve_forever()
