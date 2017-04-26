@@ -10,9 +10,9 @@ def extract(req):
 
 str1=''
 a=[]
-f=open("wifi2.txt","r")
+f=open("wifi.txt","r")
 for each_line in f.readlines():
-    f1=open('wifi3.txt','a')
+    f1=open('wifi5.txt','a')
     if each_line[0]=='$':
         print(extract(str1))
         f1.write(str(extract(str1))+'\n')
@@ -25,7 +25,7 @@ for each_line in f.readlines():
     else:
         str1 = str1 + each_line
     f1.close
-f1=open('wifi3.txt','a')
+f1=open('wifi5.txt','a')
 print(extract(str1))
 f1.write(str(extract(str1))+'\n')
 f1.close
